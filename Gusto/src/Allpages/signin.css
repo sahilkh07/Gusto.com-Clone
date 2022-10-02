@@ -1,0 +1,19 @@
+.signin{
+
+    display: grid;
+
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    
+}
+.popup1{
+    position: absolute;
+    left: 400px;
+    z-index: 200;
+    width: 400px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   display: flex;
+   justify-content: center;
+    
+
+}

@@ -1,0 +1,12 @@
+.top-section{
+    display: grid;
+    grid-template-columns: repeat(2,550px);
+    padding-top: 70px;
+    gap: 100px;
+   
+    justify-content: center;
+  
+    
+  
+
+}

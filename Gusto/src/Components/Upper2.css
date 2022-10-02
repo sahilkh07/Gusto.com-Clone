@@ -1,0 +1,15 @@
+.newTopsection{
+
+    display: grid;
+
+    grid-template-columns: repeat(2,550px);
+    padding-top: 70px;
+    gap: 10px;
+   
+    justify-content: center;
+
+}
+.jacks{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
